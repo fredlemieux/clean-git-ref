@@ -1,3 +1,8 @@
+# IDE files
+.vs_code
+.idea
+
+# Others
 lib/
 node_modules
 npm-debug.log
